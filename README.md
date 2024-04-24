@@ -1,1 +1,5 @@
-# TUGAS2_Muhammad-Fauzan-Zamzami_41522010080
+Nama  : Muhammad Fauzan Zamzami
+NIM   : 41522010080
+
+# TUGAS 2 DALAM FILE FOLDER
+# TUGAS 3 DALAM FILE RAR
